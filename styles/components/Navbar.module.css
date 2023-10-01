@@ -1,0 +1,21 @@
+.container {
+    border-bottom: 1px solid black;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+    column-gap: 2vw;
+}
+
+.logotype {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 2vw;
+}
+
+.title {
+    font-size: 2rem;  
+}
